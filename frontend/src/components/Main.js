@@ -7,7 +7,7 @@ const Main = () => {
       let [city,setCity]= useState(null);
       // city->intial value
       // setCity update valye
-      const [search,setSearch] = useState("Jamshedpur"); //default
+      const [search,setSearch] = useState("Bhubaneswar"); //default
 
       useEffect(()=>{
         let fetchApi = async() => {
