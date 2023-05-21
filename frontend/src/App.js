@@ -10,9 +10,9 @@ const App = () => {
   return (
     <body>
      <Header/> 
-    <Main/>
-    <Card/>
-    <Footer/>
+     <Main/>
+     <Card/>
+     <Footer/>
     </body>
   )
 }
